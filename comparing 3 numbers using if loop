@@ -9,3 +9,9 @@ else:
    largest = c
 
 print("The largest number is", largest)
+
+output:
+
+The largest number is 24
+
+
